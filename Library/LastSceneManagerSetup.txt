@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/AR-Card.unity
+- path: Assets/Scenes/RotateCube.unity
   isLoaded: 1
   isActive: 1
